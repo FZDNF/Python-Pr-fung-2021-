@@ -3,7 +3,6 @@ Prüfung.py
 
 
 
-Von: Fabian Zaudig, Mat.Nr.:451211039
 
 Hilfsmittel: Online-Recherche u. entsprechende Foren, Skripte aus den Vorlesungen
 
@@ -205,3 +204,4 @@ axs.plot(regres_line_x, regres_line_y, color="red")
 
 # Darstellen des Scanner Plot in einem neuen Fenster
 plt.show()
+
