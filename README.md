@@ -37,12 +37,6 @@ Ziel der Aufgabe war es, einen bereitgestellten Datensatz zu Mietwohnungen (CSV)
 - matplotlib
 - collections.Counter
 
-## Ausführung
-
-1. Stelle sicher, dass sich die Datei `07-Mietwohnungen2016.csv` im gleichen Verzeichnis wie das Skript befindet.
-2. Script ausführen (z.B. über IDE oder Terminal).  
-   - Es werden Konsolenausgaben erzeugt und mehrere Diagrammfenster geöffnet.
-   - Zusätzlich wird eine Textdatei `Auswertungsergebnisse.txt` geschrieben.
 
 ## Hinweis
 
